@@ -1,2 +1,2 @@
 # C-and-C-Project
-Achieved full marks in final year project designed to test C and C++ proficiency as well as analytic capabilities. Had to think meticulously to numerically solve the problems stated and write codes to answer said questions.
+Achieved full marks in final year project designed to test C and C++ proficiency in solving unfamiliar problems. Thought meticulously and used analytic capabilities to numerically solve problems and write procedural codes to answer the questions stated.
